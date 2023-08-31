@@ -2,7 +2,7 @@
 
 ## An experienced business intelligence/data analyst
 
-I am an analyst who is always looking for challenging opportunities where I can leverage my over three years of extensive experience in business intelligence and data analytics in providing actionable insight from data.
+I am an analyst who is always looking for challenging opportunities where I can leverage my over three years of extensive experience in business intelligence and data analytics to provide actionable insight from raw data.
 
 Over the years in my professional journey, I have accumulated extensive experience and technical expertise as an Analyst, working with diverse datasets across different sectors. As an Analyst at a leading technology company that consults for clients across the world, I have also excelled in solving problems with technical tools like SQL, Python, Azure, Power BI and Excel.  My proficiency in these tools has equipped me to extract actionable insights and drive informed decision-making processes.
 
